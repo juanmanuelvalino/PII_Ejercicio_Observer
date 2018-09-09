@@ -1,0 +1,9 @@
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Library\bin\Debug\netcoreapp2.1\Library.deps.json
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Library\bin\Debug\netcoreapp2.1\Library.dll
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Library\bin\Debug\netcoreapp2.1\Library.pdb
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Library\obj\Debug\netcoreapp2.1\Library.csprojAssemblyReference.cache
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Library\obj\Debug\netcoreapp2.1\Library.csproj.CoreCompileInputs.cache
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfoInputs.cache
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfo.cs
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Library\obj\Debug\netcoreapp2.1\Library.dll
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Library\obj\Debug\netcoreapp2.1\Library.pdb

@@ -1,0 +1,14 @@
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\bin\Debug\netcoreapp2.1\Program.deps.json
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\bin\Debug\netcoreapp2.1\Program.runtimeconfig.json
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\bin\Debug\netcoreapp2.1\Program.runtimeconfig.dev.json
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\bin\Debug\netcoreapp2.1\Program.dll
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\bin\Debug\netcoreapp2.1\Program.pdb
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\bin\Debug\netcoreapp2.1\Library.dll
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\bin\Debug\netcoreapp2.1\Library.pdb
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\obj\Debug\netcoreapp2.1\Program.csprojAssemblyReference.cache
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\obj\Debug\netcoreapp2.1\Program.csproj.CoreCompileInputs.cache
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\obj\Debug\netcoreapp2.1\Program.AssemblyInfoInputs.cache
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\obj\Debug\netcoreapp2.1\Program.AssemblyInfo.cs
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\obj\Debug\netcoreapp2.1\Program.csproj.CopyComplete
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\obj\Debug\netcoreapp2.1\Program.dll
+D:\JuanMa\Programación II\PII_Ejercicio_Observer\src\Program\obj\Debug\netcoreapp2.1\Program.pdb
